@@ -48,7 +48,7 @@ No frameworks. No backend. No deployment complexity. One `.html` file.
 2. Go to **Settings → Pages → Deploy from branch (main)**
 3. Your app will be live at:
    ```
-   https://carson-emenecker.github.io/REPO-NAME/ai-knowledge-base-chat.html
+   https://carson-emenecker.github.io/ai-knowledge-base-chat/ai-knowledge-base-chat.html
    ```
  
 ### Option C — Host anywhere static
